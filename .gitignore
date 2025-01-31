@@ -5,3 +5,6 @@
 /land_cover
 /other_data
 /study_area
+/outputs
+outputs/y2y_carbon_biomes.xlsx
+outputs/y2y_carbon_ecoregions.xlsx
