@@ -6,7 +6,6 @@ This repository contains all code used in the carbon benefits analysis from Nov 
 
 I split the analysis into two parts:
 
-0. Pre-processing
 1. Quantifying carbon stocks and forest carbon sequestration
 2. Quantifying manageable, vulnerable, and irrecoverable carbon
 
