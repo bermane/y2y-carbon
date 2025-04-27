@@ -14,7 +14,7 @@ This file serves to describe the structure of this github repository. Details of
 
 ## 0. Preprocessing
 
-### mask_carbon_stocks.ipynb
+### [mask_carbon_stocks.ipynb](/mask_carbon_stocks.ipynb)
 
 Many of the data inputs used in this analysis were either available directly on GEE or were downloaded directly from the data provider and uploaded to GEE without any further manipulation. I downloaded the soil organic carbon stock layers from open land map and used this code to sum together the layers corresponding to different soil depth intervals. I output layers representing soil carbon from 0-30cm and 0-100cm depth. I initially used the code to clip all of the raster inputs to the Y2Y extent but in the end I uploaded the raw layers to GEE and let GEE handle clipping, reprojecting, masking, etc.
 
