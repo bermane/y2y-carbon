@@ -1,3 +1,7 @@
+#################################
+### INSTALL AND LOAD PACKAGES ###
+#################################
+
 # install wdpar package
 # install.packages('wdpar')
 
